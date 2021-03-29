@@ -1,11 +1,17 @@
-## Demo Avalith
+## Avalith
 
-Maquetado del Sitio Web Avalith.net realizado en Gatsby, React y con Taildwind Css version 2.
+Avalith.net 
+Website Layout made in Gatsby, React and with Taildwind Css version 2.
 
-UI Interface de [Tailwincss](https://tailwindcss.com/)
+UI Interface [Tailwincss](https://tailwindcss.com/)
 
-Proyecto Construido con [Gatsby](https://www.gatsbyjs.com).
+Project Built with [Gatsby](https://www.gatsbyjs.com).
 
-## Demo
+## Demo Challenge
 [Demo](https://thirsty-engelbart-abee30.netlify.app/)
 
+## Demo Project
+[Demo](https://thirsty-engelbart-abee30.netlify.app/)
+
+## Final project
+[Final Project](https://avalith.net/)
